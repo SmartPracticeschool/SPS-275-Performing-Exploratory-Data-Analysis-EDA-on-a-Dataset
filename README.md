@@ -1,6 +1,8 @@
 # SPS-275-Performing-Exploratory-Data-Analysis-EDA-on-a-Dataset
 Performing Exploratory Data Analysis (EDA) on a Dataset
 
+for clear understanding refer to yhis <a href="https://drive.google.com/file/d/1aiZM3ga2kENFz8ieB0-THlAnAEzClP3S/view?usp=sharing">video</a>
+
 Requires Jupyter Notebook for running
 
 Before running this file follow the steps 
